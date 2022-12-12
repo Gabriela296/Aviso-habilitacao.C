@@ -1,2 +1,4 @@
-# Aviso-habilitacao.C
-Projeto em Linguagem C 
+# Exercício Linguagem c
+## Aviso para renovar a habilitação
+### O presente exercício, desenvolvido para fins didáticos, tem como objetivo apresentar ao usuário, quando ultrapassado o prazo de 3 anos ou mais, a data para renovar sua habilitação.
+
