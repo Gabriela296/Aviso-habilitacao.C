@@ -1,3 +1,3 @@
 # Exercício Linguagem c
 ## Aviso para renovar a habilitação
-### O presente exercício, tem como objetivo apresentar ao usuário quando ultrapassado o prazo de 3 anos ou mais, se já deve renovar sua habilitação.
+### O objetivo deste exercício é informar ao usuário quando ele deve renovar sua habilitação, considerando que a renovação é necessária após 3 anos ou mais da data de emissão.
